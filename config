@@ -1,0 +1,11 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/muthamizh-ms?tab=repositories
+[remote "Allinone"]
+	url = https://github.com/muthamizh-ms?Allinone
+[remote "Allinone1"]
+	url = https://github.com/muthamizh-ms/Allinone1.git
